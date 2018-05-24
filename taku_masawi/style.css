@@ -117,6 +117,9 @@ li{
     opacity: 0.6;
     filter: alpha(opacity=60);
 }
+.link_color a{
+    color:#ff9ea7;
+}
 .references a{
     color: white;
     text-decoration: none;
