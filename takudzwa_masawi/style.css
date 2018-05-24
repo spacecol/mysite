@@ -95,6 +95,9 @@ li{
 #useful_links{
     text-align: center;
 }
+.link_color a{
+    color:#ff9ea7;
+}
 .resources{
     height: auto;
     width: 100%;
